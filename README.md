@@ -40,13 +40,21 @@ Note: Account 1 (0x2c934BB973e18b185602887cFf0f8Cc20ab6C03A) sent 0.002 ETH to A
 
 ## 4. Gas
 
-**Mainnet Gas Tracker:**
+**Mainnet Gas Tracker (target blockchain Core):**
+
+https://scan.coredao.org/chart/gasprice
+
+Core Scan also shows the current gas price at the top of every page (https://scan.coredao.org).
+
+**Testnet Gas Tracker (Core Testnet2):**
+
+https://scan.test2.btcs.network/chart/gasprice
+
+**Mainnet Gas Tracker for Zircuit (the chain I used for my transactions):**
 
 https://www.quicknode.com/gas-tracker/zircuit
 
-**Testnet Gas Tracker (if it exists):**
-
-Not found.
+For Zircuit Garfield Testnet I did not find a testnet gas tracker.
 
 ## 5. Nonce
 
